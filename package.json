@@ -1,0 +1,16 @@
+{
+  "name": "unfollow-ninja",
+  "version": "1.0.0",
+  "description": "Automatically uncheck 'Follow company' on LinkedIn Easy Apply.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@crxjs/vite-plugin": "^2.0.0-beta.23",
+    "@types/chrome": "^0.0.268",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11"
+  }
+}
