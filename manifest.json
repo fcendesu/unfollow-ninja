@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "description": "Automatically uncheck 'Follow company' on LinkedIn Easy Apply.",
   "icons": {
-    "16": "icon16.png",
-    "48": "icon48.png",
-    "128": "icon128.png"
+    "16": "icon.svg",
+    "48": "icon.svg",
+    "128": "icon.svg"
   },
   "permissions": ["activeTab"],
   "action": {
